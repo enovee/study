@@ -136,42 +136,7 @@ fig.tight_layout()
 plt.show()
 
 
-# In[393]:
 
-
-n = int(input('Wprowadz liczbe'))
-x = np.arange(n)
-
-def nasza_funkcja(x)
-    return 1-x/float(n)
-
-
-negative_data = []
-positive_data = []
-
-for i in range(x):
-    dd = nasza_funkcja(x)
-    if
-
-
-
-fig = plt.figure()
-ax = plt.subplot(111)
-ax.bar(count, negative_data, width=1, color='r')
-ax.bar(count, positive_data, width=1, color='b')
-
-
-# In[406]:
-
-
-ujemne = [-4, -2, -1]
-dodatnie = [3, 2, 1]
-
-plt.hist(dodatnie)
-plt.hist(ujemne)
-
-
-# In[ ]:
 
 
 
